@@ -40,10 +40,4 @@
     return cell;
 }
 
-#pragma mark - TableView Delegate
-
--(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
-    
-}
-
 @end

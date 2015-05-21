@@ -14,7 +14,6 @@
 		CD31BBAC1B0C95EB0079CC25 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD31BBAB1B0C95EB0079CC25 /* Images.xcassets */; };
 		CD31BBAF1B0C95EB0079CC25 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD31BBAD1B0C95EB0079CC25 /* LaunchScreen.xib */; };
 		CD31BBBB1B0C95EB0079CC25 /* LHAutoLayoutDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD31BBBA1B0C95EB0079CC25 /* LHAutoLayoutDemoTests.m */; };
-		CD31BBC61B0C9AE70079CC25 /* AverageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD31BBC51B0C9AE70079CC25 /* AverageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +40,6 @@
 		CD31BBB41B0C95EB0079CC25 /* LHAutoLayoutDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LHAutoLayoutDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD31BBB91B0C95EB0079CC25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD31BBBA1B0C95EB0079CC25 /* LHAutoLayoutDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHAutoLayoutDemoTests.m; sourceTree = "<group>"; };
-		CD31BBC41B0C9AE70079CC25 /* AverageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AverageViewController.h; sourceTree = "<group>"; };
-		CD31BBC51B0C9AE70079CC25 /* AverageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AverageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,8 +85,6 @@
 				CD31BBA31B0C95EB0079CC25 /* AppDelegate.m */,
 				CD31BBA51B0C95EB0079CC25 /* ViewController.h */,
 				CD31BBA61B0C95EB0079CC25 /* ViewController.m */,
-				CD31BBC41B0C9AE70079CC25 /* AverageViewController.h */,
-				CD31BBC51B0C9AE70079CC25 /* AverageViewController.m */,
 				CD31BBA81B0C95EB0079CC25 /* Main.storyboard */,
 				CD31BBAB1B0C95EB0079CC25 /* Images.xcassets */,
 				CD31BBAD1B0C95EB0079CC25 /* LaunchScreen.xib */,
@@ -224,7 +219,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD31BBC61B0C9AE70079CC25 /* AverageViewController.m in Sources */,
 				CD31BBA71B0C95EB0079CC25 /* ViewController.m in Sources */,
 				CD31BBA41B0C95EB0079CC25 /* AppDelegate.m in Sources */,
 				CD31BBA11B0C95EB0079CC25 /* main.m in Sources */,

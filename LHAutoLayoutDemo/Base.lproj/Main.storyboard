@@ -37,10 +37,10 @@
             </objects>
             <point key="canvasLocation" x="820.5" y="21.5"/>
         </scene>
-        <!--Average View Controller-->
+        <!--View Controller-->
         <scene sceneID="SYl-bX-nS8">
             <objects>
-                <viewController storyboardIdentifier="AverageViewController" id="LVV-w8-die" customClass="AverageViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="AverageViewController" id="LVV-w8-die" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="HlB-gP-F5E"/>
                         <viewControllerLayoutGuide type="bottom" id="kry-tv-4cL"/>
